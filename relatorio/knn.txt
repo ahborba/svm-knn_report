@@ -1,0 +1,84 @@
+dataset:  MDML
+k:  1
+	precisao:  0.9466019417475728
+	revocacao:  0.6610169491525424
+	acuracia:  0.9207142857142857
+k:  2
+	precisao:  0.905829596412556
+	revocacao:  0.6755852842809364
+	acuracia:  0.9157142857142857
+k:  5
+	precisao:  0.9481132075471698
+	revocacao:  0.730909090909091
+	acuracia:  0.9392857142857143
+k:  10
+	precisao:  0.9315068493150684
+	revocacao:  0.7391304347826086
+	acuracia:  0.9378571428571428
+k:  100
+	precisao:  0.9521531100478469
+	revocacao:  0.7210144927536232
+	acuracia:  0.9378571428571428
+dataset:  NL
+k:  1
+	precisao:  0.25
+	revocacao:  0.040498442367601244
+	acuracia:  0.306
+k:  2
+	precisao:  0.23076923076923078
+	revocacao:  0.05642633228840126
+	acuracia:  0.278
+k:  5
+	precisao:  0.2835820895522388
+	revocacao:  0.06529209621993128
+	acuracia:  0.36
+k:  10
+	precisao:  0.26666666666666666
+	revocacao:  0.04225352112676056
+	acuracia:  0.39
+k:  100
+	precisao:  0.42857142857142855
+	revocacao:  0.02112676056338028
+	acuracia:  0.428
+dataset:  XOR
+k:  1
+	precisao:  0.896551724137931
+	revocacao:  0.9191919191919192
+	acuracia:  0.9075
+k:  2
+	precisao:  0.9312169312169312
+	revocacao:  0.8888888888888888
+	acuracia:  0.9125
+k:  5
+	precisao:  0.9313725490196079
+	revocacao:  0.9595959595959596
+	acuracia:  0.945
+k:  10
+	precisao:  0.9303482587064676
+	revocacao:  0.9444444444444444
+	acuracia:  0.9375
+k:  100
+	precisao:  0.9310344827586207
+	revocacao:  0.9545454545454546
+	acuracia:  0.9425
+dataset:  LS
+k:  1
+	precisao:  0.9747474747474747
+	revocacao:  0.9747474747474747
+	acuracia:  0.975
+k:  2
+	precisao:  1.0
+	revocacao:  0.9494949494949495
+	acuracia:  0.975
+k:  5
+	precisao:  0.9947916666666666
+	revocacao:  0.9646464646464646
+	acuracia:  0.98
+k:  10
+	precisao:  0.9947916666666666
+	revocacao:  0.9646464646464646
+	acuracia:  0.98
+k:  100
+	precisao:  1.0
+	revocacao:  0.9646464646464646
+	acuracia:  0.9825
